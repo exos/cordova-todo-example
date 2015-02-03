@@ -1,0 +1,21 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "authors": [
+    "exos <tioscar@gmail.com>"
+  ],
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "GPL",
+  "private": true,
+  "dependencies": {
+    "requirejs": "~2.1.14",
+    "jquery-mobile-bower": "~1.4.2",
+    "indexeddb-backbonejs-adapter": "*",
+    "IndexedDBShim": "*",
+    "backbone": "~1.1.2",
+    "requirejs-text": "~2.0.12"
+  }
+}
